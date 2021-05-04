@@ -1,0 +1,11 @@
+main.container{
+    max-width: 600px;
+}
+
+.accordion-item .show {
+    background: #e8f0fe;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #fff;
+}
