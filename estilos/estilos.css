@@ -3,8 +3,8 @@ header {
     background-image: url(https://ssl.gstatic.com/support/content/images/static/banners/youtube.svg);
     background-position: 50%;
     background-repeat: no-repeat;
-    /* height: 19.0625rem;
-    margin-top: 1.5rem; */
+    height: 19.0625rem;
+    margin-top: 1.5rem;
 }
 
 main.container {
