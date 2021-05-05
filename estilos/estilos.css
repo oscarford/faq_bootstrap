@@ -7,6 +7,10 @@ header {
     margin-top: 1.5rem;
 }
 
+.hamburguesa {
+    z-index: 1;
+}
+
 main.container {
     max-width: 600px;
 }
